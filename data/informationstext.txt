@@ -1,0 +1,20 @@
+<p><u>Schulgesetz Rheinland-Pfalz</u></p>
+
+Grundsätzlich darf nur die Grundschule des Grundschulbezirks besucht werden, in dem der Wohnsitz der Schülers oder der Schülerin liegt.
+Beachten Sie, dass die Fahrtkosten zu einer <b>weiterführenden Schule</b> nur in soweit übernommen werden können, wie sie zur <b>nächstgelegenen</b> entsprechenden weiterführenden Schule übernommen werden würden (bis zu 5 km Unterschied werden nicht berücksichtigt).<br>
+Nach §69 des Schulgesetzes muss die Schülerbeförderung zu den Grundschulen und Förderschulen mit der entsprechenden Lernstufe sichergestellt werden, wenn der Schulweg länger als 2 km oder besonders gefährlich (siehe Tabelle: Wegekategorien) ist.<br>
+Mit dem Schulweg ist dabei der kürzeste <b>Fußweg</b> zwischen Wohnung und der Schule gemeint. Dies kann über ein Ticket für den Öffentlichen Personennahverkehr oder die Einrichtung von Schulbussen erreicht werden.<br>
+Zu weiterführenden Schulen, also Realschulen und Realschulen Plus, Gymnasien, integrierten Gesamtschulen muss diese Entfernung mind. 4km betragen oder besonders gefährlich sein.<br>
+Die Übernahme der Fahrtkosten wird in der Sekundarstufe I (bis zur 10. Klasse) übernommen, ab der Sekundarstufe II (Oberstufe) hängt die Übernahme der Fahrtkosten vom Einkommen ab.<br>
+
+<p>Den genauen Gesetzestext, sowie das gesamte Schulgesetz von Rheinland-Pfalz können Sie über den Button <b>[zum Schulgesetz]</b> in der rechten oberen Ecke der Webanwendung.</p>
+<p><u>ISCED-Level</u></p>
+International Standard Classification for Education
+Das Schulwesen unterscheidet sich nicht nur in den einzelnen Bundesländern Deutschlands, sondern auch in ganz Europa. Daher hat die United Nations Educational, Scientific and Cultural Organization (UNESCO) in den 1970er Jahren angefangen eine Klassifizierung des Bildungswesens mithilfe von „levels of education“ (Bildungsebenen) und „fields of education“ (Bildungsbereiche) zu erstellen und diese erstmals 1997 veröffentlicht. 
+Diese Klassifizierung wurde in sieben Bildungsebenen unterteilt und für Daten bis zum Jahr 2013 verwendet. Für Daten ab 2014 wird die neue Veröffentlichung des ISCED 2011 genutzt,die nun neun Kategorien beinhaltet und erstmals auch zwischen den Bildungsbereichen differenziert. <br>
+<p>-Level 0: ("early childhood education") entspricht dem Kindergarten und der Vorschule <br>
+-Level 1: ("primary education“) entspricht der Grundschule <br>
+-Level 2: ("lower secondary education") entspricht der Sekundarstufe I<br>
+-Level 3: ("upper secondary education") entspricht der Sekundarstufe II <br></p>
+Die weiteren Level sind für diese Anwendung nicht relevant, mehr Informationen dazu können aber <a
+                    href="https://www.datenportal.bmbf.de/portal/de/G293.html">hier</a> gefunden werden.<br>

@@ -1,0 +1,2699 @@
+{
+    "type": "FeatureCollection",
+    "name": "MZ_SUEW_Schulen",
+    "crs": {
+      "type": "name",
+      "properties": {
+        "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+      }
+    },
+    "features": [{
+        "type": "Feature",
+        "properties": {
+          "full:id": "r1389674",
+          "osm_id": "1389674",
+          "osm:type": "relation",
+          "addr:housenumber": "53",
+          "addr:postcode": "55128",
+          "addr:street": "Küferweg",
+          "alt_name": "Grundschule Mainz-Bretzenheim Süd",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Erich Kästner Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "26823",
+          "school:de": "Grundschule",
+          "type": "multipolygon",
+          "website": "https://www.eks-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "+496131/363828"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.23825,
+            49.97146
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r1855223",
+          "osm_id": "1855223",
+          "osm:type": "relation",
+          "addr:housenumber": "1",
+          "addr:postcode": "55127",
+          "addr:street": "Hindemithstraße",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Realschule Plus im Carl-Zuckmayer-Schulzentrum",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "41016",
+          "school:de": "Realschule Plus",
+          "type": "multipolygon",
+          "website": "https://www.rsplus-mainz-lerchenberg.de/",
+          "addr:city": "Mainz",
+          "building": "school",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.19516,
+            49.95918
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r8055957",
+          "osm_id": "8055957",
+          "osm:type": "relation",
+          "addr:housenumber": "29",
+          "addr:postcode": "55128",
+          "addr:street": "Am Wildgraben",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule an den Römersteinen",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15317",
+          "school:de": "Grundschule",
+          "type": "multipolygon",
+          "website": "https://www.gs-an-den-roemersteinen-mainz.de",
+          "addr:city": "Mainz",
+          "addr:country": "DE",
+          "email": "schule.an-den-roemersteinen@stadt.mainz.de",
+          "phone": "+49 6131 369045",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.25214,
+            49.98718
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r11201401",
+          "osm_id": "11201401",
+          "osm:type": "relation",
+          "addr:housenumber": "41a",
+          "addr:postcode": "55129",
+          "addr:street": "Ringstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Theodor-Heuss-Grundschule Mainz",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "10991",
+          "school:de": "Grundschule",
+          "type": "multipolygon",
+          "website": "https://www.ths-mainz.de",
+          "addr:city": "Mainz",
+          "building": "school",
+          "phone": "+496131592056"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.27522,
+            49.96089
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w21635394",
+          "osm_id": "21635394",
+          "osm:type": "way",
+          "addr:housenumber": "7",
+          "addr:postcode": "55131",
+          "addr:street": "Geschwister-Scholl-Straße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "IGS Anna Seghers",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "70185",
+          "school:de": "Gesamtschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "Gesamtschule": "integriert"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26782,
+            49.97745
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w23256286",
+          "osm_id": "23256286",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55126",
+          "addr:street": "Merkurweg",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Freie Waldorfschule Mainz",
+          "operator": "Waldorfschulverein Mainz e.V.",
+          "operator:type": "private",
+          "ref": "79005",
+          "school:de": "Freie Waldorfschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "-",
+          "wikidata": "Q56249664"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.17465,
+            49.99498
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w23575809",
+          "osm_id": "23575809",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55118",
+          "addr:street": "Scheffelstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Goetheschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11379",
+          "school:de": "Grundschule",
+          "website": "https://www.goethe-grundschule-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "+49 6131 612026"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.25464,
+            50.00902
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w23600426",
+          "osm_id": "23600426",
+          "osm:type": "way",
+          "addr:housenumber": "48",
+          "addr:postcode": "55120",
+          "addr:street": "Am Lemmchen",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Lemmchenschule Mainz Mombach",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11259",
+          "school:de": "Grundschule",
+          "website": "https://www.lemmchenschule-mainz-mombach.de",
+          "addr:city": "Mainz",
+          "email": "schule.gs-amlemmchen@stadt.mainz.de",
+          "phone": "+49-6131-968154",
+          "wheelchair": "yes",
+          "fax": "+49-6131-968156",
+          "opening_hours": "Mo-Th 07:30-16:00; Fr 07:30-13:30"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.21604,
+            50.02139
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w24317632",
+          "osm_id": "24317632",
+          "osm:type": "way",
+          "addr:housenumber": "9",
+          "addr:postcode": "55118",
+          "addr:street": "Adam-Karrillon-Straße",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Anne-Frank-Realschule plus",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "40008",
+          "school:de": "Realschule Plus",
+          "website": "https://www.afr-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "yes",
+          "description": "de:Orientierungsstufe der Anna-Seghers-Realschule plus (Rest am Hauptstandort Petersplatz)",
+          "school": "secondary"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26168,
+            50.00539
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w24317955",
+          "osm_id": "24317955",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55116",
+          "addr:street": "Petersplatz",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Anne-Frank-Schule Standort Petersplatz",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "40008",
+          "school:de": "Realschule Plus",
+          "website": "https://www.afr-mainz.de/",
+          "addr:city": "Mainz",
+          "building": "school",
+          "phone": "-",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.27019,
+            50.00385
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w24379316",
+          "osm_id": "24379316",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55116",
+          "addr:street": "Willigisplatz",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Bischöfliches Willigis-Gymnasium und Willigis-Realschule",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "50030",
+          "school:de": "Gymnasium",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "limited",
+          "wikidata": "Q866265"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.27013,
+            49.99597
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w24379379",
+          "osm_id": "24379379",
+          "osm:type": "way",
+          "addr:housenumber": "3",
+          "addr:postcode": "55116",
+          "addr:street": "Ballplatz",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Maria-Ward-Schule",
+          "operator": "Stiftung Maria Ward-Schule",
+          "operator:type": "private",
+          "ref": "50090",
+          "school:de": "Gymnasium",
+          "website": "https://www.mws-mainz.de/WB/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "limited",
+          "wikidata": "Q30016623",
+          "denomination": "roman_catholic",
+          "religion": "christian",
+          "toilets:wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26918,
+            49.99683
+          ]
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w24461164",
+          "osm_id": "24461164",
+          "osm:type": "way",
+  
+          "addr:housenumber": "5",
+          "addr:postcode": "55131",
+          "addr:street": "An der Philippsschanze",
+          "addr:city": "Mainz",
+          "addr:country": "DE",
+  
+          "amenity": "school",
+          "name": "Gutenberg-Gymnasium",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "isced:level": "2;3",
+          "school:de": "Gymnasium",
+          "ref": "50507",
+                  
+          "website": "https://www.gutenberg-gymnasium.de/",
+          "phone": "+496131-9061550",
+          "wheelchair": "yes",
+          "wikidata": "Q1557152",
+          "wikipedia": "de:Gutenberg-Gymnasium (Mainz)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26356,
+            49.98922
+          ]
+        }
+      }
+      
+      ,
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w27438617",
+          "osm_id": "27438617",
+          "osm:type": "way",
+          "addr:housenumber": "58",
+          "addr:postcode": "55131",
+          "addr:street": "Oberer Laubenheimer Weg",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Theresianum",
+          "operator": "Johannesbund e. V.",
+          "operator:type": "private",
+          "ref": "51321",
+          "school:de": "Gymnasium",
+          "website": "https://www.theresianum-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "limited",
+          "wikidata": "Q18394108"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.28449,
+            49.98335
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w31825857",
+          "osm_id": "31825857",
+          "osm:type": "way",
+          "addr:housenumber": "3",
+          "addr:postcode": "55129",
+          "addr:street": "Feldgartenstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Im Feldgarten",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15287",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-ebersheim.de",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "+49613643030",
+          "wheelchair": "yes",
+          "addr:suburb": "Ebersheim"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.24502,
+            49.91475
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w41397669",
+          "osm_id": "41397669",
+          "osm:type": "way",
+          "addr:housenumber": "35",
+          "addr:postcode": "55127",
+          "addr:street": "Gottfried-Schwalbach-Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Marienborn",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15303",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "+496131362516"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.22755,
+            49.95887
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w41814875",
+          "osm_id": "41814875",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55128",
+          "addr:street": "Hans-Böckler-Straße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "IGS Mainz Bretzenheim",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "70035",
+          "school:de": "Gesamtschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "yes",
+          "Gesamtschule": "integriert",
+          "wikidata": "Q15115437"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2482,
+            49.97681
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w41817120",
+          "osm_id": "41817120",
+          "osm:type": "way",
+          "addr:housenumber": "40",
+          "addr:postcode": "55128",
+          "addr:street": "Essenheimer Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Heinrich-Mumbächer-Grundschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15260",
+          "school:de": "Grundschule",
+          "website": "https://hms.bildung-rp.de/",
+          "addr:city": "Mainz",
+          "phone": "+496131361074",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.24372,
+            49.97868
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w42201541",
+          "osm_id": "42201541",
+          "osm:type": "way",
+          "addr:housenumber": "26",
+          "addr:postcode": "55130",
+          "addr:street": "Portlandstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Schillerschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "18246",
+          "school:de": "Grundschule",
+          "website": "https://schiller.bildung-rp.de/",
+          "addr:city": "Mainz",
+          "building": "school",
+          "phone": "+496131833298",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.29789,
+            49.97987
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w47402326",
+          "osm_id": "47402326",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "55129",
+          "addr:street": "Generaloberst-Beck-Straße",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Windmühlenschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "30979",
+          "school:de": "Förderschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "+49613153966"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26456,
+            49.97672
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w60400704",
+          "osm_id": "60400704",
+          "osm:type": "way",
+          "addr:housenumber": "35",
+          "addr:postcode": "55118",
+          "addr:street": "Adam-Karrillon-Straße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Frauenlob-Gymnasium",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "50417",
+          "school:de": "Gymnasium",
+          "website": "https://www.frauenlob-gymnasium.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "yes",
+          "wikidata": "Q15810383"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26574,
+            50.00908
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w100035368",
+          "osm_id": "100035368",
+          "osm:type": "way",
+          "addr:housenumber": "50",
+          "addr:postcode": "55122",
+          "addr:street": "Gleisbergweg",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Gleisbergschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "19721",
+          "school:de": "Grundschule",
+          "website": "https://www.gleisbergschule.de",
+          "addr:city": "Mainz",
+          "phone": "+496131690600",
+          "wheelchair": "yes",
+          "barrier": "fence"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.22548,
+            50.0028
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w100535737",
+          "osm_id": "100535737",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55122",
+          "addr:street": "An Schneiders Mühle",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Kanonikus-Kir-Realschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "40955",
+          "school:de": "Realschule Plus",
+          "website": "https://www.kkr-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "+49 6131 687091",
+          "wheelchair": "no",
+          "fax": "+49 6131 690203",
+          "barrier": "fence"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.23027,
+            50.0034
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w101184468",
+          "osm_id": "101184468",
+          "osm:type": "way",
+          "addr:housenumber": "48",
+          "addr:postcode": "55122",
+          "addr:street": "Gleisbergweg",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Peter-Jordan-Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "30245",
+          "school:de": "Förderschule",
+          "website": "https://www.peter-jordan-schule-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.23273,
+            50.00564
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w101185322",
+          "osm_id": "101185322",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "55122",
+          "addr:street": "An Schneiders Mühle",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Otto-Schott-Gymnasium Mainz-Gonsenheim",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "51064",
+          "school:de": "Gymnasium",
+          "website": "osg-mainz.de",
+          "addr:city": "Mainz",
+          "email": "gygo@stadt.mainz.de",
+          "phone": "+49 6131 906560",
+          "wikidata": "Q15058328",
+          "fax": "+49 6131 9065615",
+          "wikipedia": "de:Otto-Schott-Gymnasium"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.23182,
+            50.00455
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w104423033",
+          "osm_id": "104423033",
+          "osm:type": "way",
+          "addr:housenumber": "4",
+          "addr:postcode": "55131",
+          "addr:street": "Schillstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Ludwig-Schwamb-Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "10794",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-ludwig-schwamb-mainz.de/",
+          "addr:city": "Mainz",
+          "addr:country": "DE",
+          "phone": "-",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2651,
+            49.98844
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w114550734",
+          "osm_id": "114550734",
+          "osm:type": "way",
+          "addr:housenumber": "7",
+          "addr:postcode": "55122",
+          "addr:street": "John-F.-Kennedy-Straße",
+          "alt_name": "Martin Luther King Schule",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Dr. Martin-Luther-King-Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "18726",
+          "school:de": "Grundschule",
+          "website": "https://www.gs-dr-martin-luther-king.de",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "+496131373181",
+          "building:level": "2",
+          "name_etymo": "Q8027"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.24843,
+            50.00231
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w114550744",
+          "osm_id": "114550744",
+          "osm:type": "way",
+          "addr:housenumber": "5",
+          "addr:postcode": "55122",
+          "addr:street": "John-F.-Kennedy-Straße",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Astrid-Lindgren-Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "31717",
+          "school:de": "Förderschule",
+          "website": "https://astrid-lindgren-schule-mainz.de",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "+496131324726",
+          "building:level": "1"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.24788,
+            50.00218
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w129445949",
+          "osm_id": "129445949",
+          "osm:type": "way",
+          "addr:housenumber": "7",
+          "addr:postcode": "55124",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Maler-Becker-Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11442",
+          "school:de": "Grundschule",
+          "website": "https://www.maler-becker-schule.de/",
+          "addr:city": "Mainz",
+          "email": "schule.maler-becker@stadt.mainz.de",
+          "phone": "+49 6131 41720",
+          "wheelchair": "limited",
+          "fax": "+49 6131 41722"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.20813,
+            50.00175
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w137712515",
+          "osm_id": "137712515",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "55127",
+          "addr:street": "Hindemithstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Mainz-Lerchenberg",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "10148",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "-",
+          "building:level": "4",
+          "start_date": "2004-12"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.19626,
+            49.95894
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w142738965",
+          "osm_id": "142738965",
+          "osm:type": "way",
+          "addr:housenumber": "30",
+          "addr:postcode": "55122",
+          "addr:street": "Watfordstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Münchfeldschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11619",
+          "school:de": "Grundschule",
+          "website": "https://www.muenchfeldschule.de/",
+          "addr:city": "Mainz",
+          "addr:country": "DE",
+          "email": "schule.muenchfeld@stadt.mainz.de",
+          "phone": "+49 6131 324723",
+          "wheelchair": "yes",
+          "fax": "+49 6131 324725",
+          "opening_hours": "Mo-Fr 08:00-13:00, SH off, PH off",
+          "designatio": "Grundschule"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.22872,
+            49.99876
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w156513305",
+          "osm_id": "156513305",
+          "osm:type": "way",
+          "addr:housenumber": "11",
+          "addr:postcode": "55127",
+          "addr:street": "Daniel-Brendel-Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Marc Chagall Schule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15273",
+          "school:de": "Grundschule",
+          "website": "https://marc-chagall-schule.de/",
+          "addr:city": "Mainz",
+          "building": "school",
+          "email": "schule.marc-chagall@stadt.mainz.de",
+          "phone": "+49 6131 477553",
+          "wheelchair": "yes",
+          "fax": "+49 6131 477511"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.19208,
+            49.97621
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w166499454",
+          "osm_id": "166499454",
+          "osm:type": "way",
+          "addr:housenumber": "13",
+          "addr:postcode": "55118",
+          "addr:street": "Leibnizstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Leibnizschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "18730",
+          "school:de": "Grundschule",
+          "website": "https://www.leibnizschule-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "yes",
+          "school": "primary"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26207,
+            50.00579
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w180989114",
+          "osm_id": "180989114",
+          "osm:type": "way",
+          "addr:housenumber": "10",
+          "addr:postcode": "55130",
+          "addr:street": "Heinrich-Schrohe-Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Martinusschule Weisenau",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "20753",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.29633,
+            49.97708
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w191819060",
+          "osm_id": "191819060",
+          "osm:type": "way",
+          "addr:housenumber": "4",
+          "addr:postcode": "55118",
+          "addr:street": "Feldbergplatz",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Feldbergschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11335",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "+496131679901"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2646,
+            50.01118
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w194243104",
+          "osm_id": "194243104",
+          "osm:type": "way",
+          "addr:housenumber": "41b",
+          "addr:postcode": "55129",
+          "addr:street": "Ringstraße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "IGS Hechtsheim",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "70351",
+          "school:de": "Gesamtschule",
+          "website": "https://www.igs-hechtsheim.de/",
+          "addr:city": "Mainz",
+          "email": "schule.igs-hechtsheim@stadt.mainz.de",
+          "phone": "+49 6131 250760",
+          "wheelchair": "no",
+          "Gesamtschule": "integriert",
+          "opening_hours": "08:00-16:00"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.27541,
+            49.9608
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w235283833",
+          "osm_id": "235283833",
+          "osm:type": "way",
+          "addr:housenumber": "26",
+          "addr:postcode": "55126",
+          "addr:street": "Layenhofstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Peter-Härtling-Schule Standort Layenhofstraße",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "26930",
+          "school:de": "Grundschule",
+          "website": "https://grundschule-finthen.de/",
+          "addr:city": "Mainz",
+          "phone": "+496131 475764",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.16901,
+            49.98572
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w235363906",
+          "osm_id": "235363906",
+          "osm:type": "way",
+          "addr:housenumber": "14",
+          "addr:postcode": "55126",
+          "addr:street": "Lambertstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Peter-Härtling-Schule Standort Lambertstraße",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "26930",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-finthen.de",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.17276,
+            49.98561
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w282891458",
+          "osm_id": "282891458",
+          "osm:type": "way",
+          "addr:housenumber": "6",
+          "addr:postcode": "55120",
+          "addr:street": "Pestalozziplatz",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Pestalozzigrundschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "11472",
+          "school:de": "Grundschule",
+          "website": "https://www.pestalozzigrundschule-mainz.de",
+          "addr:city": "Mainz",
+          "phone": "+496131683410",
+          "wheelchair": "yes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2242,
+            50.01946
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w378873137",
+          "osm_id": "378873137",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55124",
+          "addr:street": "Breite Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Martinus-Schule-Gonsenheim",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "20723",
+          "school:de": "Grundschule",
+          "website": "https://www.martinusschulegonsenheim.de/",
+          "addr:city": "Mainz",
+          "email": "sekretariat@martinusschulegonsenheim.de",
+          "phone": "+49 6131 41830",
+          "fax": "+49 322 2159 6243"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.20544,
+            50.0011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w443000718",
+          "osm_id": "443000718",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55130",
+          "addr:street": "Longchampplatz",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Laubenheim",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15290",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "+49613187483",
+          "wheelchair": "limited",
+          "addr_hou_1": "Grundschule Laubenheim",
+          "level": "primary"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.31167,
+            49.96339
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w528901240",
+          "osm_id": "528901240",
+          "osm:type": "way",
+          "addr:housenumber": "29",
+          "addr:postcode": "55131",
+          "addr:street": "Hechtsheimer Straße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Gymnasium Mainz-Oberstadt",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "51485",
+          "school:de": "Gymnasium",
+          "website": "https://www.gymnasium-oberstadt.de/",
+          "addr:city": "Mainz",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.2793,
+            49.98026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w614464609",
+          "osm_id": "614464609",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "55116",
+          "addr:street": "Leo-Trepp-Platz",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Schlossgymnasium",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "50567",
+          "school:de": "Gymnasium",
+          "website": "https://www.schloss-online.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "wikidata": "Q1558279",
+          "school": "secondary",
+          "start_date": "1914"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26921,
+            50.00793
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w616752639",
+          "osm_id": "616752639",
+          "osm:type": "way",
+          "addr:housenumber": "11",
+          "addr:postcode": "55116",
+          "addr:street": "Weißliliengasse",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Martinus-Schule Weißliliengasse",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "42397",
+          "school:de": "Grundschule;Realschule Plus",
+          "website": "https://www.martinus-schule-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "-",
+          "denomination": "roman_catholic",
+          "religion": "christian"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.272,
+            49.99547
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w655255272",
+          "osm_id": "655255272",
+          "osm:type": "way",
+          "addr:housenumber": "3",
+          "addr:postcode": "55116",
+          "addr:street": "Eisgrubweg",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Eisgrubschule",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "15257",
+          "school:de": "Grundschule",
+          "website": "https://www.eisgrubschule-mainz.de/",
+          "addr:city": "Mainz",
+          "phone": "+496131221235",
+          "start_date": "1888"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26874,
+            49.99461
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w667143348",
+          "osm_id": "667143348",
+          "osm:type": "way",
+          "addr:housenumber": "9",
+          "addr:postcode": "55129",
+          "addr:street": "Generaloberst-Beck-Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Martinusschule Oberstadt Mainz Private Grundschule",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "20737",
+          "school:de": "Grundschule",
+          "website": "https://martinusschule-oberstadt.de",
+          "addr:city": "Mainz",
+          "phone": "+49613195300-0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26317,
+            49.97682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w722721103",
+          "osm_id": "722721103",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "55118",
+          "addr:street": "117er Ehrenhof",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Rabanus-Maurus-Gymnasium",
+          "operator": "Stadt Mainz",
+          "operator:type": "public",
+          "ref": "50224",
+          "school:de": "Gymnasium",
+          "website": "https://www.rama-mainz.de",
+          "addr:city": "Mainz",
+          "email": "rama-mainz@stadt.mainz.de",
+          "phone": "-",
+          "wikidata": "Q1596922",
+          "short_name": "RaMa"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.26538,
+            50.00755
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "n7618632446",
+          "osm_id": "7618632446",
+          "osm:type": "node",
+          "addr:housenumber": "2",
+          "addr:postcode": "55116",
+          "addr:street": "Willigisplatz",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Bischöfliche Willigis Realschule Plus",
+          "operator": "Bistum Mainz",
+          "operator:type": "private",
+          "ref": "40101",
+          "school:de": "Realschule Plus",
+          "website": "-",
+          "addr:city": "Mainz",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.27017,
+            49.99604
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w259812156",
+          "osm_id": "259812156",
+          "osm:type": "way",
+          "addr:housenumber": "39",
+          "addr:postcode": "76831",
+          "addr:street": "Mühlhofener Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Klingbachschule",
+          "operator": "Verbandsgemeinde Landau-Land",
+          "operator:type": "public",
+          "ref": "26360",
+          "school:de": "Grundschule",
+          "website": "https://www.klingbachschule.de",
+          "addr:city": "Billigheim-Ingenheim",
+          "phone": "+496349929503"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.08965,
+            49.13588
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w256461329",
+          "osm_id": "256461329",
+          "osm:type": "way",
+          "addr:housenumber": "21",
+          "addr:postcode": "76863",
+          "addr:street": "Bussereaustraße",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "St. Laurentius-Schule Herxheim",
+          "operator": "Caritasverband für die Diözese Speyer e.V.",
+          "operator:type": "private",
+          "ref": "30065",
+          "school:de": "Förderschule",
+          "website": "https://www.st-laurentius-herxheim.de",
+          "addr:city": "Herxheim",
+          "building": "school",
+          "phone": "+497276970140"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.21899,
+            49.14984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w293556424",
+          "osm_id": "293556424",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "76857",
+          "addr:street": "Kastanienweg",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Gossersweiler-Stein",
+          "operator": "Verbandsgemeinde Annweiler am Trifels",
+          "operator:type": "public",
+          "ref": "25768",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Gossersweiler-Stein",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "-",
+          "building:level": "2",
+          "roof_colou": "red",
+          "roof_mater": "roof_tiles",
+          "roof_shape": "gabled"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.9351,
+            49.16011
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w263436083",
+          "osm_id": "263436083",
+          "osm:type": "way",
+          "addr:housenumber": "84",
+          "addr:postcode": "76877",
+          "addr:street": "Hauptstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Offenbach",
+          "operator": "Verbandsgemeinde Offenbach an der Queich",
+          "operator:type": "public",
+          "ref": "22962",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-offenbach.de",
+          "addr:city": "Offenbach an der Queich",
+          "phone": "+496348959520"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.18916,
+            49.18854
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w383632189",
+          "osm_id": "383632189",
+          "osm:type": "way",
+          "addr:housenumber": "24",
+          "addr:postcode": "67487",
+          "addr:street": "Bergstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule St Martin",
+          "operator": "Verbandsgemeinde Maikammer",
+          "operator:type": "public",
+          "ref": "17512",
+          "school:de": "Grundschule",
+          "website": "https://www.gs-st-martin.de/grundschule/index.php?id=10",
+          "addr:city": "Sankt Martin",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "+49 6323 4094"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.10259,
+            49.30067
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w376385532",
+          "osm_id": "376385532",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "76857",
+          "addr:street": "Auf der Lehr",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Albersweiler",
+          "operator": "Verbandsgemeinde Annweiler am Trifels",
+          "operator:type": "public",
+          "ref": "25755",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Albersweiler",
+          "building": "school",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.03338,
+            49.22005
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w142165476",
+          "osm_id": "142165476",
+          "osm:type": "way",
+          "addr:housenumber": "132",
+          "addr:postcode": "67480",
+          "addr:street": "Weinstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Edenkoben",
+          "operator": "Verbandsgemeinde Edenkoben",
+          "operator:type": "public",
+          "ref": "13048",
+          "school:de": "Grundschule",
+          "website": "https://www.gs-edenkoben.de",
+          "addr:city": "Edenkoben",
+          "building": "school",
+          "phone": "+4963239435-19"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.12942,
+            49.28581
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w117107878",
+          "osm_id": "117107878",
+          "osm:type": "way",
+          "addr:housenumber": "18",
+          "addr:postcode": "76887",
+          "addr:street": "Pestalozzistraße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Realschule Plus mit Fachoberschule Bad Bergzabern",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "40998",
+          "school:de": "Realschule Plus",
+          "website": "https://schulebza.de/rsplus/",
+          "addr:city": "Bad Bergzabern",
+          "building": "school",
+          "phone": "+49634398900"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.99857,
+            49.09699
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w151697731",
+          "osm_id": "151697731",
+          "osm:type": "way",
+          "addr:housenumber": "5",
+          "addr:postcode": "76889",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "August-Becker-Schule",
+          "operator": "Ortsgemeinde Klingenmünster",
+          "operator:type": "public",
+          "ref": "14639",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Klingenmünster",
+          "building": "school",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01994,
+            49.13858
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w187869670",
+          "osm_id": "187869670",
+          "osm:type": "way",
+          "addr:housenumber": "133",
+          "addr:postcode": "67480",
+          "addr:street": "Weinstraße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Paul-Gillet-Realschule Plus Weinstraße",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "40791",
+          "school:de": "Realschule Plus",
+          "website": "-",
+          "addr:city": "Edenkoben",
+          "building": "school",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.12988,
+            49.28632
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w159765592",
+          "osm_id": "159765592",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "67482",
+          "addr:street": "In den Feldern",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Gäuschule - Grundschule Böbingen",
+          "operator": "Verbandsgemeinde Edenkoben",
+          "operator:type": "public",
+          "ref": "26283",
+          "school:de": "Grundschule",
+          "website": "https://www.gaeuschule.eu/",
+          "addr:city": "Böbingen",
+          "phone": "-",
+          "wheelchair": "limited"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.22511,
+            49.27896
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w201091118",
+          "osm_id": "201091118",
+          "osm:type": "way",
+          "addr:housenumber": "14",
+          "addr:postcode": "67487",
+          "addr:street": "An der Steinmühle",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Gebrüder-Ullrich-Realschule Plus",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "42054",
+          "school:de": "Realschule Plus",
+          "website": "https://www.rsp-maikammer-hambach.de",
+          "addr:city": "Maikammer",
+          "building": "school",
+          "phone": "+496321963965-0"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13638,
+            49.30179
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w197906942",
+          "osm_id": "197906942",
+          "osm:type": "way",
+          "addr:housenumber": "6",
+          "addr:postcode": "67483",
+          "addr:street": "Ruprechtstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Edesheim",
+          "operator": "Verbandsgemeinde Edenkoben",
+          "operator:type": "public",
+          "ref": "21851",
+          "school:de": "Grundschule",
+          "website": "https://gs-edesheim.bildung-rp.de/",
+          "addr:city": "Edesheim",
+          "phone": "+496323981531"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13156,
+            49.26084
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w815745851",
+          "osm_id": "815745851",
+          "osm:type": "way",
+          "addr:housenumber": "5",
+          "addr:postcode": "76835",
+          "addr:street": "Herrengasse",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Rhodt",
+          "operator": "Verbandsgemeinde Edenkoben",
+          "operator:type": "public",
+          "ref": "16731",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Rhodt unter Rietburg",
+          "building": "school",
+          "phone": "+4963232162"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.10678,
+            49.27076
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w815720049",
+          "osm_id": "815720049",
+          "osm:type": "way",
+          "addr:housenumber": "75",
+          "addr:postcode": "76831",
+          "addr:street": "Arzheimer Straße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Kleine Kalmit",
+          "operator": "Verbandsgemeine Landau-Land",
+          "operator:type": "public",
+          "ref": "10555",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Ilbesheim bei Landau in der Pfalz",
+          "phone": "+49634132852"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.05192,
+            49.18675
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w530852753",
+          "osm_id": "530852753",
+          "osm:type": "way",
+          "addr:housenumber": "4",
+          "addr:postcode": "76865",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Rohrbach",
+          "operator": "Verbandsgemeinde Herxheim",
+          "operator:type": "public",
+          "ref": "16817",
+          "school:de": "Grundschule",
+          "website": "https://www.vg-herxheim.de/leben/schulen/grundschulen/",
+          "addr:city": "Rohrbach",
+          "phone": "+49 6349 8333",
+          "fax": "+49 6349 990867"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13619,
+            49.13707
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w438274672",
+          "osm_id": "438274672",
+          "osm:type": "way",
+          "addr:housenumber": "14",
+          "addr:postcode": "76879",
+          "addr:street": "Am Turnplatz",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Essingen",
+          "operator": "Verbandsgemeinde Offenbach an der Queich",
+          "operator:type": "public",
+          "ref": "13171",
+          "school:de": "Grundschule",
+          "website": "https://www.unser-essingen.de/gemeinde/schule/a_schule.html",
+          "addr:city": "Essingen",
+          "phone": "+4963478468"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.17168,
+            49.23686
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w778937299",
+          "osm_id": "778937299",
+          "osm:type": "way",
+          "addr:housenumber": "63",
+          "addr:postcode": "76833",
+          "addr:street": "Weinstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Siebeldingen",
+          "operator": "Verbandsgemeinde Landau-Land",
+          "operator:type": "public",
+          "ref": "17149",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Siebeldingen",
+          "building": "school",
+          "phone": "+4963452980"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.05149,
+            49.20984
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w744280266",
+          "osm_id": "744280266",
+          "osm:type": "way",
+          "addr:housenumber": "74",
+          "addr:postcode": "67480",
+          "addr:street": "Luitpoldstraße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Paul-Gillet-Realschule Plus Edenkoben Luitpoldstraße",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "40791",
+          "school:de": "Realschule Plus",
+          "website": "https://realschule-edenkoben.de",
+          "addr:city": "Edenkoben",
+          "email": "sekretariat@realschule-edenkoben.de",
+          "phone": "+49 6323 93813-0",
+          "fax": "+49 6323 93813-18"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13741,
+            49.2846
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w797035671",
+          "osm_id": "797035671",
+          "osm:type": "way",
+          "addr:housenumber": "14",
+          "addr:postcode": "76889",
+          "addr:street": "Schulring",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Steinfeld",
+          "operator": "Verbandsgemeinde Bad Bergzabern",
+          "operator:type": "public",
+          "ref": "23473",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Steinfeld",
+          "phone": "+496340260"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.03817,
+            49.05024
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w794791359",
+          "osm_id": "794791359",
+          "osm:type": "way",
+          "addr:housenumber": "17",
+          "addr:postcode": "76865",
+          "addr:street": "Hauptstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Insheim",
+          "operator": "Ortsgemeinde Insheim",
+          "operator:type": "public",
+          "ref": "22239",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Insheim",
+          "building": "school",
+          "addr:country": "DE",
+          "phone": "-",
+          "building:level": "2"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.14413,
+            49.15828
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w815710030",
+          "osm_id": "815710030",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "76863",
+          "addr:street": "Kolpingstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Herxheim",
+          "operator": "Verbandsgemeinde Herxheim",
+          "operator:type": "public",
+          "ref": "13904",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Herxheim",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.21649,
+            49.1438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w800971972",
+          "osm_id": "800971972",
+          "osm:type": "way",
+          "addr:housenumber": "1a",
+          "addr:postcode": "76857",
+          "addr:street": "Dekan-Schill-Straße",
+          "alt_name": "Grundschule Ramberg-Eußerthal",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Ramberg",
+          "operator": "Verbandsgemeinde Annweiler am Trifels",
+          "operator:type": "public",
+          "ref": "25772",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-ramberg.de",
+          "addr:city": "Ramberg",
+          "phone": "+496345-8325",
+          "contact_em": "gsramberg@t-online.de",
+          "contact_fa": "+49 6345 959765",
+          "contact_ph": "+49 6345 8325",
+          "contact_we": "https://www.ramberg.de/grundschule/"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.00955,
+            49.25955
+          ]
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w33089037",
+          "osm_id": "33089037",
+          "osm:type": "way",
+          "addr:housenumber": "16",
+          "addr:postcode": "76835",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Roschbach",
+          "operator": "Verbandsgemeinde Edenkoben",
+          "operator:type": "public",
+          "ref": "16834",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Roschbach",
+          "building": "school",
+          "phone": "+4963232240"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.11305,
+            49.24582
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w98550629",
+          "osm_id": "98550629",
+          "osm:type": "way",
+          "addr:housenumber": "9",
+          "addr:postcode": "76855",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Annweiler",
+          "operator": "Verbandsgemeinde Annweiler am Trifels",
+          "operator:type": "public",
+          "ref": "25695",
+          "school:de": "Grundschule",
+          "website": "https://www.gsannweiler.de",
+          "addr:city": "Annweiler am Trifels",
+          "building": "school",
+          "phone": "+4963467244"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.96749,
+            49.20249
+          ]
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w100442312",
+          "osm_id": "100442312",
+          "osm:type": "way",
+          "addr:housenumber": "14",
+          "addr:postcode": "67489",
+          "addr:street": "Hauptstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule Kirrweiler",
+          "operator": "Verbandsgemeinde Maikammer",
+          "operator:type": "public",
+          "ref": "14608",
+          "school:de": "Grundschule",
+          "website": "https://www.grundschule-kirrweiler.de",
+          "addr:city": "Kirrweiler",
+          "building": "school",
+          "phone": "+49632159585"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.16478,
+            49.30269
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w98724344",
+          "osm_id": "98724344",
+          "osm:type": "way",
+          "addr:housenumber": "2",
+          "addr:postcode": "76855",
+          "addr:street": "Herrenteich",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Förderschule Annweiler",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "31117",
+          "school:de": "Förderschule",
+          "website": "https://staufer-schulzentrum.de",
+          "addr:city": "Annweiler am Trifels",
+          "building": "school",
+          "phone": "-"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.97469,
+            49.2026
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w117106989",
+          "osm_id": "117106989",
+          "osm:type": "way",
+          "addr:housenumber": "38",
+          "addr:postcode": "76887",
+          "addr:street": "Lessingstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Böhämmer Grundschule Bad Bergzabern",
+          "operator": "Verbandsgemeinde Bad Bergzabern",
+          "operator:type": "public",
+          "ref": "11979",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Bad Bergzabern",
+          "building": "school",
+          "phone": "+496343989620"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.99655,
+            49.09681
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w117106987",
+          "osm_id": "117106987",
+          "osm:type": "way",
+          "addr:housenumber": "24",
+          "addr:postcode": "76887",
+          "addr:street": "Lessingstraße",
+          "amenity": "school",
+          "name": "Alfred-Grosser-Gymnasium Bad Bergzabern",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "51141",
+          "school:de": "Gymnasium",
+          "website": "https://www.schulebza.de/gymnasium",
+          "addr:city": "Bad Bergzabern",
+          "building": "school",
+          "phone": "+49634393440",
+          "isced:level":"2;3"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.99526,
+            49.09682
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r11200824",
+          "osm_id": "11200824",
+          "osm:type": "relation",
+          "addr:housenumber": "112",
+          "addr:postcode": "76879",
+          "addr:street": "Hauptstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Hainbachschule",
+          "operator": "Verbandsgemeinde Offenbach an der Queich",
+          "operator:type": "public",
+          "ref": "18786",
+          "school:de": "Grundschule",
+          "type": "multipolygon",
+          "website": "-",
+          "addr:city": "Hochstadt (Pfalz)",
+          "building": "school",
+          "phone": "+4963471531"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.21106,
+            49.23888
+          ]
+        }
+      },
+  
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r11200958",
+          "osm_id": "11200958",
+          "osm:type": "relation",
+          "addr:housenumber": "134",
+          "addr:postcode": "67480",
+          "addr:street": "Weinstraße",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Gymnasium Edenkoben",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "51441",
+          "school:de": "Gymnasium",
+          "type": "multipolygon",
+          "website": "https://www.gymnasium-edenkoben.de/",
+          "addr:city": "Edenkoben",
+          "building": "school",
+          "phone": "+496323-9488-0 "
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13023,
+            49.28756
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w28666587",
+          "osm_id": "28666587",
+          "osm:type": "way",
+          "addr:housenumber": "17",
+          "addr:postcode": "76855",
+          "addr:street": "Bannenbergstraße",
+          "alt_name": "TGA",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "Trifelsgymnasium Annweiler",
+          "operator": "Evangelische Kirche der Pfalz",
+          "operator:type": "private",
+          "ref": "50060",
+          "school:de": "Gymnasium",
+          "website": "https://www.trifelsgymnasium.de",
+          "addr:city": "Annweiler am Trifels",
+          "phone": "+496346967-0",
+          "landuse": "residential",
+          "old_name": "Heimschule am Trifels"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.9638,
+            49.19718
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "r11201200",
+          "osm_id": "11201200",
+          "osm:type": "relation",
+          "addr:housenumber": "3-5",
+          "addr:postcode": "67487",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Johannes-Leonhardt-Schule",
+          "operator": "Verbandsgemeinde Maikammer",
+          "operator:type": "public",
+          "ref": "10658",
+          "school:de": "Grundschule",
+          "type": "multipolygon",
+          "website": "-",
+          "addr:city": "Maikammer",
+          "building": "school",
+          "phone": "+496321952749"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.13226,
+            49.30509
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w30728751",
+          "osm_id": "30728751",
+          "osm:type": "way",
+          "addr:housenumber": "38-40",
+          "addr:postcode": "76889",
+          "addr:street": "Am Kolmerberg",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Grundschule \"Am Kastanienwald\"",
+          "operator": "Verbandsgemeinde Bad Bergzabern",
+          "operator:type": "public",
+          "ref": "25412",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Dörrenbach",
+          "phone": "+4963431211"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.96037,
+            49.09121
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w28675093",
+          "osm_id": "28675093",
+          "osm:type": "way",
+          "addr:housenumber": "12",
+          "addr:postcode": "76855",
+          "addr:street": "Herrenteich",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "Realschule Plus Annweiler",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "40788",
+          "school:de": "Realschule Plus",
+          "website": "-",
+          "addr:city": "Annweiler am Trifels",
+          "building": "school",
+          "phone": "+49634696510"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.97699,
+            49.20308
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w249690531",
+          "osm_id": "249690531",
+          "osm:type": "way",
+          "addr:housenumber": "1",
+          "addr:postcode": "76889",
+          "addr:street": "Schulstraße",
+          "amenity": "school",
+          "isced:level": "1",
+          "name": "Horbachgrundschule",
+          "operator": "Verbandsgemeinde Bad Bergzabern",
+          "operator:type": "public",
+          "ref": "13497",
+          "school:de": "Grundschule",
+          "website": "-",
+          "addr:city": "Gleiszellen-Gleishorbach",
+          "building": "school",
+          "phone": "+49063431248"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.01014,
+            49.12691
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "w221176885",
+          "osm_id": "221176885",
+          "osm:type": "way",
+          "addr:housenumber": "55",
+          "addr:postcode": "76887",
+          "addr:street": "Zeppelinstraße",
+          "amenity": "school",
+          "isced:level": "1;2",
+          "name": "Altenbergschule",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "31510",
+          "school:de": "Förderschule",
+          "website": "https://www.altenbergschule.de",
+          "addr:city": "Bad Bergzabern",
+          "building": "school",
+          "phone": "+4963438176"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.99627,
+            49.10373
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "n7618575323",
+          "osm_id": "7618575323",
+          "osm:type": "node",
+          "addr:housenumber": "11",
+          "addr:postcode": "76863",
+          "addr:street": "Südring",
+          "amenity": "school",
+          "isced:level": "2",
+          "name": "PAMINA Realschule Plus Herxheim",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "40805",
+          "school:de": "Realschule Plus",
+          "website": "https://www.pamina-schulzentrum.de",
+          "addr:city": "Herxheim",
+          "phone": "+4972769710"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.20883,
+            49.14191
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "full:id": "n7618575322",
+          "osm_id": "7618575322",
+          "osm:type": "node",
+          "addr:housenumber": "11",
+          "addr:postcode": "76863",
+          "addr:street": "Südring",
+          "amenity": "school",
+          "isced:level": "2;3",
+          "name": "PAMINA Gymnasium",
+          "operator": "Landkreis Südliche Weinstraße",
+          "operator:type": "public",
+          "ref": "51408",
+          "school:de": "Gymnasium",
+          "website": "https://www.pamina-schulzentrum.de",
+          "addr:city": "Herxheim",
+          "phone": "+4972769710"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.20848,
+            49.14209
+          ]
+        }
+      }, {
+  
+        "type": "Feature",
+        "properties": {
+          "place_id": 103402005,
+          "osm:type": "way",
+          "osm_id": 72785743,
+          "amenity": "school",
+          "importance": 0.4708812954247281,
+          "name":"Gymnasium Nieder-Olm",
+          "ref": "51364",
+          "school:de": "Gymnasium",
+          "addr:housenumber": "39",
+          "addr:street": "Karl-Sieben-Straße",
+          "addr:city": "Nieder-Olm",
+          "municipality": "Nieder-Olm",
+          "county": "Landkreis Mainz-Bingen",
+          "state": "Rheinland-Pfalz",
+          "addr:postcode": "55268",
+          "addr:country": "Germany",
+          "addr:country_code": "de",
+          "operator": "Landkreis Mainz-Bingen",
+          "operator:type": "public",
+          "isced:level":"2;3"
+  
+        },
+        "bbox": [
+          8.1932938,
+          49.9007824,
+          8.1967032,
+          49.9022962
+        ],
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.195676976396447,
+            49.90170345
+          ]
+        }
+  
+      }, {
+  
+        "type": "Feature",
+        "properties": {
+          "place_id": 92999675,
+          "osm:type": "way",
+          "osm_id": 28002420,
+          "name": "Integrierte Gesamtschule Nieder-Olm",
+          "place_rank": 30,
+                  "importance": 0.201,
+  "building":"school",
+          "amenity": "school",
+          "addr:housenumber": "33",
+          "addr:street": "Karl-Sieben-Straße",
+          "addr:city": "Nieder-Olm",
+          "municipality": "Nieder-Olm",
+          "addr:county": "Landkreis Mainz-Bingen",
+          "state": "Rheinland-Pfalz",
+          "addr:postcode": "55268",
+          "country": "Germany",
+          "country_code": "de",
+  
+          "ref": "70198",
+          "fax": "+49 6136 9528113",
+          "email": "info@igsno.de",
+          "phone": "+49 6136 952810",
+          "website": "https://www.igsno.de/neu/",
+          "operator": "Kreisverwaltung Mainz-Bingen",
+          "school:de": "Gesamtschule",
+          "operator:type": "public",
+          "isced:level":"2;3"
+  
+        },
+        "bbox": [
+          8.1954432,
+          49.9022243,
+          8.1966532,
+          49.9033255
+        ],
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            8.195889326191923,
+            49.90277235
+          ]
+        }
+  
+      }
+    ]
+  }
