@@ -7,4 +7,4 @@ DE: Die API-Keys für die Routenplaner OpenRouteService, GraphHopper und Mapxbox
 EN: Please add your api-keys for the route planners in the <i>config.js</i> file
 
 ## License
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0 - see the License file for details
